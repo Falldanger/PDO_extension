@@ -1,0 +1,4 @@
+PDO extension
+
+Combine the previous two exercises by implementing: adding time zones by the user, as well as displaying data about the selected time zone.
+Note: There will be two forms in one page. Do all communication with the database using the PDO extension
